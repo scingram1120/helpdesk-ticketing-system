@@ -49,9 +49,3 @@ Potential future enhancements include:
 - tracking resolution time
 - adding ticket categories and escalation levels
 - building a dashboard for ticket reporting
-
-🔹 Skills Used
-	•	SQL (PostgreSQL)
-	•	Troubleshooting methodology
-	•	IT documentation
-	•	Problem-solving and issue isolation
